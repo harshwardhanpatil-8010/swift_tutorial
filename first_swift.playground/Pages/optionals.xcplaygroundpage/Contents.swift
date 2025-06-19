@@ -227,4 +227,5 @@ func getUserData() {
 //explicitly unwrap optionals
 //If I will get the count because i know 100% that username is not nil
 //This will crash the application if username is nil
+
 //let count3: Int = username!.count
